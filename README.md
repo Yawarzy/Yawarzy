@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yawar Bhat
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me ... yawarbhatzy@gmail.com
 
 <!---
